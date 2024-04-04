@@ -18,15 +18,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS&logoColor=06B6D4)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS&logoColor=06B6D4)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=for-the-badge&logo=styledcomponents&logoColor=DB7093)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=for-the-badge&logo=linux&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
